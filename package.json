@@ -11,9 +11,8 @@
   "dependencies": {
     "adm-zip": "*",
     "buffer-crc32": "*",
-    "protobuf": "*",
-    "ref": "*",
-    "ursa": "*"
+    "node-rsa": "git+https://github.com/BAM5/node-rsa.git",
+    "protobufjs": "^3.8.1"
   },
   "engines": {
     "node": "0.10.x"
